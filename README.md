@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Sourabh Patil
 - 👀 I’m interested in coding
+- I learned the Javascript
 - 🌱 I’m currently learning MERN stack developmemt
 
 <!---
