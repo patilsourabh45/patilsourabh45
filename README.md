@@ -1,6 +1,8 @@
 - 👋 Hi, My name is Sourabh Patil.
 - 👀 I’m interested in coding.
-- 💻Currently I am learning MERN stack developmemt.
+- 💻I learned MERN stack developmemt.
+- Below are my tecnical skills:
+- HTML, CSS, Javascript, Bootstrap, Mongodb, ExpressJs, ReactJs, NodeJs, Python, Github, Ms-Office 
 
 <!---
 patilsourabh45/patilsourabh45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
