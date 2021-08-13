@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Sourabh Patil.
 - 👀 I’m interested in coding.
-- 💻I learned MERN stack developmemt.
+- 💻I learned MERN stack development.
 - Below are my tecnical skills:
 - HTML, CSS, Javascript, Bootstrap, Mongodb, ExpressJs, ReactJs, NodeJs, Python, Github, Ms-Office 
 
