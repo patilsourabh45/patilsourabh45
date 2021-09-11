@@ -1,8 +1,7 @@
 - 👋 Hi, My name is Sourabh Patil.
 - 😍I love to learn new things.
 - 💻I learned MERN stack development.
-- Currently I am learning DSA.
-- Below are my tecnical skills:
+- Below are my technical skills:
 - HTML, CSS, Javascript, Bootstrap, Mongodb, ExpressJs, ReactJs, NodeJs, Python, Github, Ms-Office 
 
 <!---
